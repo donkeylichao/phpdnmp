@@ -1,5 +1,4 @@
 ##### PHPDNMP（Docker + Nginx + MySQL + PHP）是一款全功能的DNMP一键安装程序。
-##### 使用过程中如有问题，请反馈谢谢 [留言地址]（https://www.jianshu.com/p/b9a957390baa）
 ##### 本地需提前安装好git、docker和docker-compose。
 ### 1.快速使用
 ```php模式 
