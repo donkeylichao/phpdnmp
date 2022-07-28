@@ -3,7 +3,7 @@
 ### 1.快速使用
 ```php模式 
 1.下载phpdnmp：
-$ git clone https://github.com/Tim-AutumnWind/phpdnmp.git
+$ git clone https://github.com/donkeylichao/phpdnmp.git
 2.进入目录
 $ cd phpdnmp
 3.构建
